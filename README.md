@@ -14,3 +14,8 @@ So they should be CO-OP or Solo-able at any time.
   - [ ] Polish
   
 Call of the Dead should already be completable in all scenarios like normal on plutonium.
+
+
+## Support
+If you find any issues (and you probably will) raise a ticket and I'll make a fix where possible.
+Screenshots of the error or exact test is required.
